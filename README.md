@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on translation, developing open source software, using open data.
 - 📫 How to reach me is just sending message in facebook or email
 - facebook @masanobu.kojo
-- email info@masanobu-kojo.net 
+- email info@open-rd.net
 
 <!---
 ojojo/ojojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
