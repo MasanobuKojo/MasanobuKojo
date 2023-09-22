@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ojojo
+- 👋 Hi, I’m @MasanobuKojo
 - 👀 I’m interested in OpenData, OpenGovernment, EBPM(Evidence Based Policy Making), etc.
 - 🌱 I’m currently learning CKAN, SPARQL, English, etc.
 - 💞️ I’m looking to collaborate on translation, developing open source software, using open data.
